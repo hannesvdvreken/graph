@@ -1,6 +1,6 @@
 <?php
 
-namespace hannesvdvreken\graph;
+namespace hannesvdvreken\Graph;
 
 class WeightedGraph
 {

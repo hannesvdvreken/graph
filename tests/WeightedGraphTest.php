@@ -2,7 +2,7 @@
 
 require_once __DIR__.'/../vendor/autoload.php';
 
-use hannesvdvreken\graph\WeightedGraph;
+use hannesvdvreken\Graph\WeightedGraph;
 
 class WeightedGraphTest extends PHPUnit_Framework_TestCase 
 {
